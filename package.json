@@ -14,5 +14,6 @@
   },
   "scripts": {
     "test": "node ./test/index.js"
-  }
+  },
+  "license": "ISC"
 }
